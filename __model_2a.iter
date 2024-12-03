@@ -1,0 +1,11 @@
+asc_car = 2.6875034688063417
+asc_pt = 1.7812664049196576
+asc_walk = 4.45903181686021
+beta_cost = -0.19048112845994614
+beta_time_car = -6.516033960924714
+beta_time_car_female = -0.951817585392141
+beta_time_cycling = -5.944614751273559
+beta_time_cycling_female = -3.8980059197330754
+beta_time_pt = -3.60008414355955
+beta_time_walk = -8.927290784372916
+beta_time_walk_female = -0.6261997248887881
